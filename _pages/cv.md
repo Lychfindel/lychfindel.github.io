@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D (Dr.rer. nat) in Computer Science, Universität Tübingen, 2023
+* M.S. in Automation Engineering, Università di Padova, 2013
+* B.S. in Information Engineering, Università di Padova, 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-now: Research Engineer
+  * IRCCS San Camillo Hospital, Venezia (Italy)
+  * Staff Scientist
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023: Automation and model engineer
+  * SATE, Venezia (Italy)
+  * Models for systems diagnostic in automation and space fields
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2022: Research Associate
+  * Wyss Center for Bio and Neuroengineering, Genève (Switzerland)
+  * Single-case study, intracortical BCI communication with ALS patient 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Grant, Awards, and Fundings
+=====
+* 2025-now: ERMES1
+  * Funder: Malvestio S.p.A. (Private financing)
+  * Amount: 96'000€
+  * Role: PI
+  * Title: Pilot study on the use of next-generation hospital beds (smart beds) to improve the organizational effectiveness of a ward.
+  * Mixed-methods study assessing the organizational impact of smart beds on nursing workload and patient safety, including staff interviews, response time metrics, and correlation of piezoelectric sensor data with standard medical devices.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
